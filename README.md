@@ -1,12 +1,9 @@
-### Hi there 👋
+### Heyo!
+I'm Ryosuke, a frustrated photographer, sometimes a translator or a "programmer"
+##### Sometimes I'm addicted to some colours like Pink or Teal.
 
+Reach Me!
 
-- 🔭 I’m currently working on: Translating Intellivoid to the Spanish public! 
-- 🌱 I’m currently learning: Nothing :p
-- 👯 I’m looking to collaborate on: Translation projects
-- 🤔 I’m looking for help with: Watching series
-- 💬 Ask me about anything 
-- 📫 How to reach me: Mail or Telegram! 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I **really** like to watch [series and such](https://tvtime.com/r/1qcDN) 
-
+- I can usually be found on Telegram as [@nicuuut](https://t.me/nicuuut)
+- Mail is usually not preferred but here is it anyways. - me (at) takarushi (dot) me
+- I use Signal too, but message me first for my number hehe 🌚
