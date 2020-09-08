@@ -5,5 +5,4 @@ I'm Izuku, a frustrated photographer, sometimes a translator or a "programmer"
 Reach Me!
 
 - I can usually be found on Telegram as [@nicuuut](https://t.me/nicuuut)
-- Mail is usually not preferred but here is it anyways. - me (at) takarushi (dot) me
-- I use Signal too, but message me first for my number hehe 🌚
+- Mail is usually not preferred but here is it anyways. - [me (at) takarushi (dot) me](mailto:me@takarushi.me) 
