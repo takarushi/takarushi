@@ -7,3 +7,5 @@ I can be reached on the link below
 
 - I can usually be found on Telegram as [@nicuuut](https://t.me/nicuuut)
 - Mail is usually not preferred but here is it anyways. - [me (at) takarushi (dot) me](mailto:me@takarushi.me) 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=takarushi&show_icons=true&theme=dracula&count_privare=true)
