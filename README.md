@@ -1,11 +1,10 @@
-### Heyo! <img src="https://github.com/takarushi/takarushi/blob/master/IMG_20200712_182740_522.png" alt="Michiru Kagemori (protagonist of BNA: Brand New Animal) on her human form on the foreground with a hat and a explosion on the background" width="48" height="48">
-I'm Izuku, a frustrated photographer, sometimes a translator or a "programmer" 
-##### Sometimes I'm addicted to some colours like Pink or Teal.
+### Hello 
+I'm Nico, a CS student, and sometimes a dev
 My pronouns are they/them
 
-I can be reached on the link below
+You can reach me with the links below
 
 - I can usually be found on Telegram as [@nicuuut](https://t.me/nicuuut)
-- Mail is usually not preferred but here is it anyways. - [me (at) takarushi (dot) me](mailto:me@takarushi.me) 
+- I usually don't prefer mail but if you need it, here it is. - [hi (at) nicuuut (dot) cl](mailto:hi@nicuuut.cl) 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=takarushi&show_icons=true&theme=dracula&count_privare=true)
